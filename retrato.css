@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+
+body{
+    font-size: 0.7em;
+   
+}
+
+h1{
+    font-size: 1.7em;
+}
+div.trio > img{
+width: 355px;
+    
+}
+
+
+
+
+
+footer{
+    text-align: center;
+    font-family:'nasa';
+    font-size:0.8em;
+    color:whitesmoke;
+    padding: 30px;
+}
